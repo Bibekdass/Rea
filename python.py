@@ -12,3 +12,10 @@ for Hello in range(10000):
 
 
 print("Hi")
+
+
+
+i=0
+while i<100:
+  i+=1
+  print(i)
